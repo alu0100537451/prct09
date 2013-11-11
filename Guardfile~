@@ -1,0 +1,2 @@
+tch(%r{^spec/.+_spec\.rb})
+end
